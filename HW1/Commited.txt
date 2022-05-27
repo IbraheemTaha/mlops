@@ -1,0 +1,3 @@
+
+
+This file already existed for the first homework, but I put it in a new folder HW1 instead of being in the main directory.
